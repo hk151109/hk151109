@@ -10,13 +10,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hk151109&show_icons=true&theme=radical" alt="GitHub Stats" height="180">
-</p>
-
----
-
 <h2 align="center" style="font-family: 'Arial';">🌐 Connect with me:</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/harikrishnangopal/" target="_blank">
