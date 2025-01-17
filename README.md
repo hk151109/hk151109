@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm <a href="https://github.com/hk151109" target="_blank" style="text-decoration: none; color: #0366d6;">Harikrishnan Gopal</a></h1>
 
 <p align="center">
-  <strong style="font-size: 1.5em; color: #2D3748;">💻 Machine Learning Enthusiast | Full Stack Web Developer</strong><br>
+  <strong style="font-size: 1.5em; color: #2D3748;">💻 Machine Learning  | Full Stack Web Developer</strong><br>
 </p>
 
 <p align="center">
