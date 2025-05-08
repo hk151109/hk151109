@@ -134,13 +134,5 @@
 </div>
 
 <hr/>
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hk151109/hk151109/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hk151109/hk151109/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/hk151109/hk151109/output/github-snake.svg" />
-</picture>
-<hr/>
 
 <h3 align="center">🚀 Let's collaborate and create something amazing! Fueled by coffee and endless lines of Python, I'm ready to take on new challenges. Reach out to me and let's make a difference together! 🌟</h3>
