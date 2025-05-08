@@ -133,6 +133,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hk151109&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=false&order=2" height="160" alt="languages graph" />
 </div>
 
+<div align="center">
+  <img src="https://github.com/hk151109/hk151109-repo/blob/main/top_languages_no_jupyter.png" height="160" alt="languages graph" />
+</div>
+
+<hr />
+
+
 ---
 
 <h3 align="center">🚀 Let's collaborate and create something amazing! Fueled by coffee and endless lines of Python, I'm ready to take on new challenges. Reach out to me and let's make a difference together! 🌟</h3>
