@@ -134,7 +134,6 @@
 </div>
 <hr />
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=hk151109&theme=algolia&show_icons=true)](https://github.com/hk151109)
-
 [![Harikrishnan Gopal's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=hk151109&hide=scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true)](https://github.com/hk151109)
 <hr/>
 <br clear="both">
