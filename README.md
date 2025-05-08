@@ -138,18 +138,4 @@
 [![Harikrishnan Gopal's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=hk151109&hide=scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true)](https://github.com/hk151109)
 <hr/>
 
-## My Tech Stack
-
-### Node.js Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adisraut&langs_count=1&theme=dark&hide_border=true&order=2&include_all=true&lang_node.js" height="160" alt="Node.js" />
-</div>
-
-### React Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adisraut&langs_count=1&theme=dark&hide_border=true&order=2&include_all=true&lang=react" height="160" alt="React" />
-</div>
-
-
-
 <h3 align="center">🚀 Let's collaborate and create something amazing! Fueled by coffee and endless lines of Python, I'm ready to take on new challenges. Reach out to me and let's make a difference together! 🌟</h3>
