@@ -132,16 +132,14 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hk151109&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=false&order=2" height="160" alt="languages graph" />
 </div>
-<hr />
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=hk151109&theme=algolia&show_icons=true)](https://github.com/hk151109)
-[![Harikrishnan Gopal's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=hk151109&hide=scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true)](https://github.com/hk151109)
+
 <hr/>
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshithaShetty27/HarshithaShetty27/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshithaShetty27/HarshithaShetty27/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/HarshithaShetty27/HarshithaShetty27/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hk151109/hk151109/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hk151109/hk151109/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hk151109/hk151109/output/github-snake.svg" />
 </picture>
 <hr/>
 
