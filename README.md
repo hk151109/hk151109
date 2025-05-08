@@ -137,6 +137,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=hk151109&theme=algolia&show_icons=true)](https://github.com/hk151109)
 [![Harikrishnan Gopal's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=hk151109&hide=scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true)](https://github.com/hk151109)
 <hr/>
----
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hk151109&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=false&order=2" height="160" alt="languages graph" />
+</div>
+
+<hr />
+
 
 <h3 align="center">🚀 Let's collaborate and create something amazing! Fueled by coffee and endless lines of Python, I'm ready to take on new challenges. Reach out to me and let's make a difference together! 🌟</h3>
