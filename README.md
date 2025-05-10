@@ -134,6 +134,6 @@
 </div>
 <hr/>
 
-![GitHub Snake](https://raw.githubusercontent.com/hk151109/hk151109/output/github-snake.svg) 
+![GitHub Snake](https://raw.githubusercontent.com/hk151109/hk151109/output/ocean.gif) 
 
 <h3 align="center">🚀 Let's collaborate and create something amazing! Fueled by coffee and endless lines of Python, I'm ready to take on new challenges. Reach out to me and let's make a difference together! 🌟</h3>
