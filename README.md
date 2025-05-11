@@ -129,9 +129,18 @@
 
 <hr />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hk151109&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=false&order=2" height="160" alt="languages graph" />
+<h2 align="center">📊 GitHub Stats: </h2>
+
+<div align="center" style="display: flex; flex-wrap: nowrap;">
+    <img width="99%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hk151109&theme=cobalt" alt="Harikrishnan"/>
 </div>
+
+<div align="center" style="display: flex; flex-wrap: nowrap;">
+    <img width="28%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hk151109&theme=cobalt" alt="Harikrishnan"/>
+    <img width="41%" src="https://github-readme-streak-stats.herokuapp.com/?user=hk151109&theme=radical&hide_border=true" alt="Harikrishnan" />
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk151109&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Harikrishnan" />
+</div>
+
 <hr/>
 
 ![GitHub Snake](https://raw.githubusercontent.com/hk151109/hk151109/output/ocean.gif) 
