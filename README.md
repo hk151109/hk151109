@@ -150,6 +150,12 @@
   <img src="https://raw.githubusercontent.com/hk151109/hk151109/output/ocean.gif" alt="GitHub Snake" style="max-width: 90%; border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" />
 </p>
 
+<p align="center" style="font-style: italic; color: #718096; margin-top: 10px; max-width: 600px; margin-left: auto; margin-right: auto;">
+  *When I'm not coding, I'm busy helping this snake grow — much like my repo count.* 🐍<br/>
+  *Warning: Playing the snake game might cause sudden bursts of productivity (or procrastination).* 🎮
+</p>
+
+
 <h3 align="center" style="font-family: 'Arial Black', Arial, sans-serif; color: #2D3748; margin-top: 40px;">
   🚀 Ready to build something awesome together? <br/>
   Fueled by ☕ coffee, 🍫 snacks, and a questionable amount of Python scripts.<br/>
