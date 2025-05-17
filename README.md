@@ -12,7 +12,7 @@
 
 ---
 
-<h2 align="center" style="font-family: 'Arial Black', Arial, sans-serif; margin-bottom: 15px;">🌐 Find Me Online (I swear I’m not stalking you):</h2>
+<h2 align="center" style="font-family: 'Arial Black', Arial, sans-serif; margin-bottom: 15px;">🌐 Find Me Online (a.k.a. follow me on these platforms):</h2>
 <p align="center" style="margin-bottom: 40px;">
   <a href="https://www.linkedin.com/in/harikrishnangopal/" target="_blank" rel="noopener" title="Connect on LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="42"/>
