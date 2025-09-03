@@ -60,7 +60,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hk151109/hk151109/output/ocean.gif" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/hk151109/hk151109/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </div>
 
 <p align="center">
